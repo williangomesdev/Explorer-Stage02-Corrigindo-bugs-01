@@ -1,18 +1,26 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+
+#hero {
+  width: 592px;
+  margin: auto;
+}
+
 h1 {
   font-family: "Inter", sans-serif;
   font-size: 49px;
-  line-height: 56px;font-weight: normal;
+  line-height: 56px;
+  font-weight: normal;
 }
 
-h1 span{
+h1 span {
   font-weight: bold;
 }
 
-body {
-  font-family: "Open Sans", sans-serif;
-}
-
-span,a {
+span,
+a {
   color: #ff9900;
 }
 
